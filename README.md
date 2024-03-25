@@ -56,7 +56,11 @@ Data from cloud API looks like this. Create a component which lists following fi
         },
         "study": "hiihto"
     }
-] ```
+]
+ ```
+
+
+
 
 All necessary information will be sent in an email:
 

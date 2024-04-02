@@ -1,5 +1,4 @@
 import axios from 'axios';
-import { useFetchData } from '../hooks/useFetchData';
 import { useEffect } from 'react';
 import { useAuth } from '../context/AuthContext';
 
